@@ -1,0 +1,24 @@
+*{padding: 0;margin: 0; }
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+table td a{
+    text-decoration: none;
+}
+footer.fondo{
+    background-color: #d8d8d8;
+    height: 1000px;
+}
+nav.color{
+    background-color: rgb(3, 27, 19);
+}
+div.alert{
+    float: right;
+    margin-top: -1500px;
+    padding: 10px;
+
+}
